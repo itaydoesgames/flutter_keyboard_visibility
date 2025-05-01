@@ -23,6 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 27
+    namespace "com.github.adee42.flutter_keyboard_visibility"
     
     defaultConfig {
         minSdkVersion 16
